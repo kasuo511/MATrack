@@ -2,13 +2,8 @@
 
 raw results:
 
-LaSOT: https://drive.google.com/file/d/14qsubE5fWh3WBjmvCXpGYVkS84d67xZE/view?usp=sharing
+[[LaSOT]](https://drive.google.com/file/d/14qsubE5fWh3WBjmvCXpGYVkS84d67xZE/view?usp=sharing)
 
-VOT2018: https://drive.google.com/file/d/1Sz0VKEY9qYPSQCvCRZO5MXo2a1tK0CPk/view?usp=sharing
+[[VOT2018]](https://drive.google.com/file/d/1Sz0VKEY9qYPSQCvCRZO5MXo2a1tK0CPk/view?usp=sharing)
 
-VOT2019: https://drive.google.com/file/d/1S_FGwTlzueANeHiCrMCcc34Qsv1jXV7s/view?usp=sharing
-
-<div align="left">
-  <img src="demo/ocean1.gif" width="800px" />
-  <!-- <p>Example SiamFC, SiamRPN and SiamMask outputs.</p> -->
-</div>
+[[VOT2019]](https://drive.google.com/file/d/1S_FGwTlzueANeHiCrMCcc34Qsv1jXV7s/view?usp=sharing)
