@@ -10,11 +10,11 @@ raw results:
 
 ## Install the environment with Anaconda
 
-We assume your root path is `/home/ltp/Workspace/TracKit`
+We assume your root path is `/home/ltp/Workspace/MATrack`
 Your anaconda path is `/home/ltp/Workspace/anaconda3`
 
 ```
-cd /home/ltp/Workspace/TracKit/lib/tutorial
+cd /home/ltp/Workspace/MATrack/lib/tutorial
 bash install.sh /home/ltp/Workspace/anaconda3 MATrack
 cd $MATrack
 conda activate MATrack
