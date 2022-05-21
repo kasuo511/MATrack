@@ -27,8 +27,9 @@ download the test datasets on the official website and put them in this form:
    ```
    ${MATRACK_ROOT}
     -- dataset
-    -- VOT2019.json
-    -- LaSOT.json
+        -- VOT2019.json
+        -- LaSOT.json
+        ...
         -- VOT2019
             |-- agility
             |-- ants1
