@@ -20,3 +20,25 @@ cd $MATrack
 conda activate MATrack
 python setup.py develop
 ```
+## Test MATrack
+
+download the test datasetson the official website and put them in this form:
+
+   ```
+   ${MATRACK_ROOT}
+    -- dataset
+    -- VOT2019.json
+    -- LaSOT.json
+        -- VOT2019
+            |-- agility
+            |-- ants1
+            |-- ball2
+            ...
+        -- LaSOT
+            |-- airplane-1
+            |-- airplane-9
+            |-- airplane-13
+            ...
+        ...
+
+   ```
