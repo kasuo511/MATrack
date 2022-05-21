@@ -22,7 +22,7 @@ python setup.py develop
 ```
 ## Test MATrack
 
-download the test datasetson the official website and put them in this form:
+download the test datasets on the official website and put them in this form:
 
    ```
    ${MATRACK_ROOT}
@@ -42,3 +42,9 @@ download the test datasetson the official website and put them in this form:
         ...
 
    ```
+Run the following command to test:
+
+   ```
+   python3 tracking/test_matrack.py --arch MATrack --resume snapshot/MATrack_VOT.pth --dataset VOT2019 
+   ```
+
