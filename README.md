@@ -46,6 +46,6 @@ download the test datasets on the official website and put them in this form:
 Run the following command to test:
 
    ```
-   python3 tracking/test_matrack.py --arch MATrack --resume snapshot/MATrack_VOT.pth --dataset VOT2019 
+   python3 tracking/test_MATrack.py --arch MATrack --resume snapshot/MATrack_VOT.pth --dataset VOT2019 
    ```
 
